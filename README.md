@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-### What I know (in part) how to do and what I continue to learn
+### What I know how to do and what I continue to learn
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,bash,py,html,css,js,raspberrypi,arduino"/>
